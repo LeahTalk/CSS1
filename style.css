@@ -1,0 +1,14 @@
+/*CSS reset settings here*/
+    *{
+    margin: 0px;
+    padding: 0px;
+   }
+
+   .panda {
+       margin-bottom: 10px;
+   }
+
+   .morePanda {
+       height: 200px;
+       margin-bottom: 20px;
+   }
